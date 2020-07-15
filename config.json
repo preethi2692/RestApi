@@ -1,0 +1,4 @@
+{
+    "connection" : 
+    "mongodb+srv://Mongo1:preethichidu@cluster0-9dogk.mongodb.net/restAPI?retryWrites=true&w=majority"
+}
